@@ -90,4 +90,4 @@ Files should be imported according to the folder they live in, one after the oth
 6. `pages/`
 
 
-Credits to: [Repo]('https://gist.github.com/AdamMarsden/7b85e8d5bdb5bef969a0')
+Credits to: [Repo](https://gist.github.com/AdamMarsden/7b85e8d5bdb5bef969a0)
