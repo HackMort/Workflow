@@ -1,5 +1,5 @@
-# Workflow
-Workflow Repo
+# JDK Web Development Workflow
+This repo contains the worflow for web development projects. It is intended to be used as a starting point for new projects and to be used as a reference for future projects.
 ### Requirements
 1. [Node.js](https://nodejs.org/en/)
 2. [SASS](https://sass-lang.com/install)
