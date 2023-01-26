@@ -27,3 +27,17 @@ npm run dev
 ### Development
 1. The project uses [BEM](http://getbem.com/introduction/) for naming conventions.
 2. The project uses [standardJS](https://standardjs.com/) for code formatting.
+
+
+### VSCode Extensions (recommended but not required)
+1. [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+2. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+3. [BEM helper](https://marketplace.visualstudio.com/items?itemName=Box-Of-Hats.bemhelper)
+4. [Conventional Commits](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)
+5. [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+6. [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+7. [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+8. [Javascript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+8. [JavaScript Standard Style Snippets](https://marketplace.visualstudio.com/items?itemName=capaj.vscode-standardjs-snippets)
+9. [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+10. [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
