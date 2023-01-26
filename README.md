@@ -1,10 +1,10 @@
 # JDK Web Development Workflow
-This repo contains the worflow for web development projects. It is intended to be used as a starting point for new projects and to be used as a reference for future projects.
-### Requirements
+This repository contains the workflow for web development projects. It is intended to be used as a starting point for new projects and to be used as a reference for future projects.
+### Requirements:
 1. [Node.js](https://nodejs.org/en/)
 2. [SASS](https://sass-lang.com/install)
 3. [GIT](https://git-scm.com/downloads)
-### Installation
+### Installation:
 1. Clone the repository
 ```npm
 git clone https://github.com/HackMort/Workflow.git
@@ -24,12 +24,12 @@ npm run dev
 5. This will open a new browser window with the project running on http://127.0.0.1:8080/ and will automatically update when you make changes to the code.
 6. Enjoy!
 
-### Development
+### Development Guidelines:
 1. The project uses [BEM](http://getbem.com/introduction/) for naming conventions.
 2. The project uses [standardJS](https://standardjs.com/) for code formatting.
 
 
-### VSCode Extensions (recommended but not required)
+### VSCode Extensions (recommended but not required):
 1. [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 2. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 3. [BEM helper](https://marketplace.visualstudio.com/items?itemName=Box-Of-Hats.bemhelper)
