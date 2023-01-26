@@ -23,3 +23,7 @@ npm run dev
 ```
 5. This will open a new browser window with the project running on http://127.0.0.1:8080/ and will automatically update when you make changes to the code.
 6. Enjoy!
+
+### Development
+1. The project uses [BEM](http://getbem.com/introduction/) for naming conventions.
+2. The project uses [standardJS](https://standardjs.com/) for code formatting.
