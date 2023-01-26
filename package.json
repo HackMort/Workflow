@@ -4,7 +4,7 @@
   "description": "Workflow Repo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "sass --watch scss:css && live-server"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   },
   "devDependencies": {
     "standard": "17.0.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
   }
 }
