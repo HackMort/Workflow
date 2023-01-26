@@ -1,0 +1,27 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "Workflow Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackMort/Workflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HackMort/Workflow/issues"
+  },
+  "homepage": "https://github.com/HackMort/Workflow#readme",
+  "dependencies": {
+    "live-server": "1.2.2",
+    "sass": "1.57.1"
+  },
+  "devDependencies": {
+    "standard": "17.0.0"
+  }
+}
