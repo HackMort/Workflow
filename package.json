@@ -4,7 +4,7 @@
   "description": "Workflow Repo",
   "main": "index.js",
   "scripts": {
-    "dev": "sass --watch scss:css && live-server"
+    "dev": "concurrently  \"sass scss:css --watch \" \" live-server  \" "
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,7 @@
     "sass": "1.57.1"
   },
   "devDependencies": {
+    "concurrently": "7.6.0",
     "standard": "17.0.0"
   },
   "eslintConfig": {
